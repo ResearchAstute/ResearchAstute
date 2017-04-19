@@ -18,7 +18,7 @@
 
 ### DORF - Distributed Open Research Foundation (Change?)
  - Clustering searchers on similar topics & tasks.
- - Mapping Knowledge.
+ - Mapping Knowledge. ( WikiMapper styled Meritocracy + "other" repositories /-> https://github.com/Constellat-io/Constellatio.github.io )
  - Machine Learning backed; with human guided semantic extractions.
    - Guiding you to the right resources & vetting vast knowledge; with curators you trust.
  - Threaded Conversations & Knowledge Economy.
