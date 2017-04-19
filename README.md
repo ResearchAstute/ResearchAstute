@@ -1,5 +1,7 @@
 {Description in progress}
 # ResearchAstute
+### Standing on the edge of the Frontiers of Knowledge & Science.
+
 ## About
 ##### Providing tools to Agencies and Institutions to groom and validate technological trends and artifacts; Companies to naviagate and plan in competetive seas; Organizations and Individuals to Investigate and Orchestrate Actions; Academies to Coordinate WorldWide Global Research Initiatives, a portal of aggregation, pairing, translation, and vetting.
 ##### Providing Gudies on How to Take Notes as a Group, in any class situation with our interface for better grades and comprehension w/ existing tools like Google Docs & EtherPad.
